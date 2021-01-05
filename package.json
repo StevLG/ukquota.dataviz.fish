@@ -32,7 +32,7 @@
     "ag-grid-community": "^19.1.4",
     "angular-esri-map": "^2.0.5",
     "angular-in-memory-web-api": "^0.6.1",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "axios-observable": "^1.0.7",
     "bluebird": "^3.5.3",
     "body-parser": "^1.18.3",
